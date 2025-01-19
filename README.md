@@ -15,7 +15,7 @@
   - В файле README.md описание действий для выполнения задания. Выполнение задания зафиксировано в файлах PDF.
 
 
-### 1. **[Включить отображение меню Grub]https://github.com/pahami/otus_grub/blob/main/Vision_Grub.pdf**
+### **[1. Включить отображение меню Grub]https://github.com/pahami/otus_grub/blob/main/Vision_Grub.pdf**
 
 Для отображения меню нужно отредактировать конфигурационный файл:
 
@@ -41,5 +41,5 @@ reboot
 ```
 При загрузке в окне виртуальной машины мы должны увидеть меню загрузчика.
 
-### 2. **[Попасть в систему без пароля несколькими способами]https://github.com/pahami/otus_grub/blob/main/ResetPass.pdf**
-### 3. **[Установить систему с LVM, после чего переименовать VG]https://github.com/pahami/otus_grub/blob/main/RenameVG.pdf**
+### **[2. Попасть в систему без пароля несколькими способами]https://github.com/pahami/otus_grub/blob/main/ResetPass.pdf**
+### **[3. Установить систему с LVM, после чего переименовать VG]https://github.com/pahami/otus_grub/blob/main/RenameVG.pdf**
